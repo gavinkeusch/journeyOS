@@ -1,0 +1,1 @@
+JourneyOS was created by reading the book "A Journey in Creating an Operating System Kernel" found here https://539kernel.com/
